@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p1b0m33yFMjZZlLLmVYqSSwKyv0uEgHgwz4VwJPPa1tIz3KWPZiPE689Ph34Eg0HfkihfpaM+bwAeSB8toTJog==",
+  "dgSpecHash": "B9CV29aKT/CUX4YAj4aClJ1AYOIBacF1B1vOPJxjc8R0lGeo+ScxtOABRAovlG/sZDtgta3Xca2F/xM96TLmpA==",
   "success": true,
-  "projectFilePath": "D:\\Cloud 2223\\Code\\WebApplicationQueue\\WebApplicationQueue\\WebApplicationQueue.csproj",
+  "projectFilePath": "C:\\Users\\Frank\\Source\\Repos\\WebApplicationQueueDemo\\WebApplicationQueue\\WebApplicationQueue.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Frank\\.nuget\\packages\\azure.core\\1.0.2\\azure.core.1.0.2.nupkg.sha512",
     "C:\\Users\\Frank\\.nuget\\packages\\azure.identity\\1.0.0\\azure.identity.1.0.0.nupkg.sha512",
